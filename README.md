@@ -12,7 +12,7 @@ The dataset includes information such as total rentals, temperature, humidity, w
 
 1. Create a new environment:
    ```bash
-   conda create --name bike-sharing python=3.9
+   conda create --name bike-sharing python=3.12
    ```
 2. Activate the environment:
    ```bash
